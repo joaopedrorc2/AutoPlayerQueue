@@ -1,11 +1,3 @@
-Settings = {
-    Start = true, --n mecha :D
-    atiQueue = true, --- pra vc n ir junto pro queue(nao mecha :D)
-    Grabber = "Dragon Throw", --- Dragon Throw or Dragon Crush
-    noSlow = true, ---apenas pra vc da final bow + grabber
-    Velocity = 3.5 --Velocidade que vai ate o portal do queue
-}
-
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
